@@ -1,0 +1,15 @@
+#div1{
+    background-color: saddlebrown;
+    position: fixed;
+    border: solid;
+    width: 300px;
+    height: 300px;
+}
+
+#div2{
+    background-color: seagreen;
+    position: relative;
+    width: 600px;
+    height: 500px;
+    float: right;
+}

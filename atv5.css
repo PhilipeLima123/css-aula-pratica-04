@@ -1,0 +1,10 @@
+#div{
+    align-items: center;
+    position: fixed;
+    top: 10%;
+    left: 22%;
+    background-color: salmon;
+    border-style: solid;
+    width: 700px;
+    height: 200px;
+}

@@ -1,0 +1,29 @@
+#div1{
+    background-color: saddlebrown;
+    position: fixed;
+    border: solid;
+    width: 300px;
+    height: 300px;
+}
+
+#div2{
+    background-color: seagreen;
+    position: relative;
+    width: 300px;
+    height: 300px;
+    float: left;
+    margin-left: 305px;
+    border: solid;
+
+}
+
+#div3{
+    background-color: red;
+    position: relative;
+    width: 300px;
+    height: 300px;
+    border-style: solid;
+    float: top;
+    margin-left: 605px;
+    ;
+}
